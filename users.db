@@ -1,0 +1,3 @@
+{"$$indexCreated":{"fieldName":"email","unique":true}}
+{"email":"admin","role":"admin","_id":"VVidQbU7ys2Zw01U"}
+{"email":"admin","role":"admin","_id":"VVidQbU7ys2Zw01U","signupDate":{"$$date":1575653452964},"modifiedDate":{"$$date":1575653452964},"passhash":"$2a$10$qI5xUKGol37cRpJB/yO84O/kDj9s6Y6LKmwnbz2vBEQDNr2jsonN2","createdDate":1575653453213}
